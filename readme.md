@@ -1,5 +1,5 @@
-#Simple Calculator
+Simple Calculator
 
 
-##Run
-CLick th given operators and symbols to perform accordingly
+Hoe to Run??
+-CLick th given operators and symbols to perform accordingly
